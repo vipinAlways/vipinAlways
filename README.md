@@ -1,4 +1,4 @@
-[<h1 align="center">Hi 👋, I'm vipin</h1>
+<h1 align="center">Hi 👋, I'm vipin</h1>
 <h3 align="center">A passionate frontend developer from India who is on journey to become full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipinalways&label=Profile%20views&color=0e75b6&style=flat" alt="vipinalways" /> </p>
@@ -25,4 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vipinalways&show_icons=true&locale=en" alt="vipinalways" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vipinalways&" alt="vipinalways" /></p>
-](https://camo.githubusercontent.com/839e314be35bbb7fec490435527a307f8d3cd78d3b39835f7510e0ae78e07935/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6e6578746a732e706e67)
+
