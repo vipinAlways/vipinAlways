@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJs & java**
 
-- 💬 Ask me about **java script ,react,& node**
+- 💬 Ask me about **java script ,react,& node js**
 
 - 📫 How to reach me **vipinkumarti555@gmail.com**
 
