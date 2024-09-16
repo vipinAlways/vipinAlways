@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipinalways" alt="vipinalways" /></a> </p>
 
-- 🌱 I’m currently learning **NextJs & java**
+- 🌱 I’m currently learning **NextJs & Python**
 
 - 💬 Ask me about **java script ,react,& node js**
 
