@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://codepen.io/@vipin_always46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@vipin_always46" height="30" width="40" /></a>
 <a href="https://twitter.com/@vipin_always46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vipin_always46" height="30" width="40" /></a>
-<a href="https://instagram.com/vipin_106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vipin_106" height="30" width="40" /></a>
+<a href="https://instagram.com/vipinalways" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vipin_106" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vipin_always" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vipin_always" height="30" width="40" /></a>
 </p>
 
