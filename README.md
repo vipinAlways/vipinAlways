@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipinalways" alt="vipinalways" /></a> </p>
 
-- 🌱 I’m currently learning **T3 & PYTHON**
+- 🌱 I’m currently learning **System Design & Block Chain**
 
 - 💬 Ask me about **java script ,react,& node js**
 
