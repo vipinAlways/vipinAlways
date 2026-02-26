@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm vipin</h1>
 <h3 align="center">A passionate fullstack developer from India. On a journey to become better than yesterday — growing as a full-stack developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vipinalways&label=Profile%20views&color=0e75b6&style=flat" alt="vipinalways" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipinalways&label=Profile%20views&color=0e75b6&style=flat" alt="vipinalways" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipinalways" alt="vipinalways" /></a> </p>
 
